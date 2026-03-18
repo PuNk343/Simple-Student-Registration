@@ -1,6 +1,3 @@
-
-Tiny fix: inside Markdown, nested code fences can get messy on GitHub if copied raw from chat. So here’s a **safer version** without the nested fence problem:
-
 ```md
 # Student Registration Form
 
